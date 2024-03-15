@@ -1,0 +1,11 @@
+/* src/yourLibraryName.css */
+
+.your-library-message-box {
+    padding: 10px;
+    background-color: lightblue;
+    border: 1px solid #ddd;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
